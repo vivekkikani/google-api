@@ -25,3 +25,21 @@ if(isset($_FILES['image'])){
 </body>
 </form>
 </html>
+
+<html>
+    <body>
+    <form action=""method="post" enctype ="multipart/form-data">  
+        <p> <input type = "file" name ="image"></p>
+        <p><input type="submit"></p>
+</body>
+</form>
+</html>
+
+<html>
+    <body>
+    <form action=""method="post" enctype ="multipart/form-data">  
+        <p> <input type = "file" name ="image"></p>
+        <p><input type="submit"></p>
+</body>
+</form>
+</html>
